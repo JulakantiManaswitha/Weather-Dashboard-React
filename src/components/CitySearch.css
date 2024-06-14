@@ -1,0 +1,17 @@
+.city-search {
+    margin-bottom: 20px;
+  }
+  
+  .city-search input {
+    padding: 10px;
+    font-size: 16px;
+    border-radius: 10px;
+  }
+  
+  .city-search button {
+    padding: 10px 15px;
+    font-size: 16px;
+    margin-left: 5px;
+    border-radius: 10px;
+  }
+  

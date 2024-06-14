@@ -1,0 +1,25 @@
+.favorite-cities {
+    margin-top: 20px;
+  }
+  
+  .favorite-cities ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .favorite-cities li {
+    display: flex;
+    justify-content: space-between;
+    margin: 5px;
+    padding: 5px;
+    border: 1px solid black;
+    border-radius: 10px;
+  }
+  
+  .favorite-cities button {
+    background-color: #f44336;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+  }
+  

@@ -1,0 +1,30 @@
+.weather-display {
+    margin: 20px 0;
+    
+  }
+  
+  .weather-info {
+    display: flex;
+    justify-content: space-around;
+    margin: 30px;
+    padding: 25px;
+   
+  }
+  
+  .weather-day {
+    background-color:antiquewhite;
+    padding: 10px;
+    width: 100px;
+    border-radius: 5px;
+  }
+  
+  button{
+    margin: 10px;
+    padding: 10px;
+    color: black;
+    border-radius: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    cursor: pointer;
+  }
+
+  
